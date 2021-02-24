@@ -3,7 +3,7 @@ Simulates a Coffee Machine, having various outlets, each outlet serving differen
 
 ## Prerequisites
     Python 3.6+
-    UNIX operating System
+    UNIX operating System (Mac Preferable)
     
 ## How to run?
     1. Create a Virtual env as `python3 -m venv <VIRTUAL_ENV_NAME>`
